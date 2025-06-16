@@ -152,3 +152,5 @@ As a HarvardX participant, I adhere strictly to the edX [Honor Code](https://edx
 Completing CS50x has been a milestone in my programming journey. The course didn’t just teach me syntax—it taught me **how to think** like a computer scientist.
 
 > _This is CS50!_
+
+---
